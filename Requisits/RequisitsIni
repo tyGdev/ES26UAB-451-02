@@ -1,0 +1,5 @@
+Han d’estar en format Markdown (.MD) i seguir la plantilla
+especificada. Per a cada requisit cal utilitzar un arxiu diferent i aquest ha de
+tenir el nom “<ID>.md” (exemple: RNF-8-01.md). En el camp dels requisits
+relacionats (Relations) caldrà incloure l’identificador i la URL relativa (enllaç)
+a l’arxiu corresponent (per a poder-lo consultar fent un clic).
