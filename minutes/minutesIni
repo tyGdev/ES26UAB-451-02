@@ -1,0 +1,5 @@
+Actes de reunions: Cada vegada que es realitza una reunió conjunta cal
+generar un acta. Cal utilitzar la plantilla donada en format markdown. Cada
+acta serà un arxiu individual amb el nom “meeting-<AAAA-MM-DD>.md”
+(exemple: meeting-2021-03-08.md). En cas de fer una correcció, no cal
+generar cap nou arxiu, sinó actualitzar l’existent.
