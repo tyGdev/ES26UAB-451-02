@@ -1,0 +1,13 @@
+# Requirements Template
+### ID
+RF-5-01
+### Type/Category:
+Funcional
+### Version:
+1.0
+### Title:
+Valoració de la comanda
+### Description:
+El sistema ha de permetre al client valorar una comanda exclusivament un cop aquesta hagi estat rebuda. Aquesta valoració haurà de recollir obligatòriament aspectes concrets com la puntualitat de l'entrega i l'estat en què ha arribat el menjar.
+### Relations:
+RF-5-02
