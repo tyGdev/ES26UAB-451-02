@@ -1,0 +1,17 @@
+## ID
+RF-2-03
+
+## Type / Category
+Functional
+
+## Version
+1.0
+
+## Title
+Vista per cuiners
+
+## Description
+L'usuari pot visualitzar un llistat de cuiners actius i accedir al detall de tots els plats que ofereix cada cuiner.
+
+## Relations
+RF-11, RF-12, RF-14
