@@ -1,4 +1,4 @@
-# ES23UAB-451-02
+# ES26UAB-451-02
 Practicas ES-UAB
 
 # QueMenges — Proyecto de Ingeniería del Software (UAB 2025–2026)
